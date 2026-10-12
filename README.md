@@ -49,6 +49,21 @@
 
 👉 [看完整输出](examples/prepaid-discipline.md)
 
+再看一个理论体的完整样子，从一句「社交距离」出发：
+
+> # 🔥 存档友谊论
+> > **档还在，就够了。**
+>
+> **第一定律 · 存档律**：友谊不会因为不联系而消失，只会存档。
+>
+> **第二定律 · 默契律**：不打扰，是对存档的保护。
+>
+> **第三定律 · 读档律**：每次读档，读出来的不只是朋友，还有存档时的那个自己。
+>
+> **术语**：读档 · 存档点 · 心跳包 · 云存档 · 空存档位 · 坏档 · 删档
+
+👉 [看完整理论体](examples/save-file-friendship.md)
+
 ---
 
 ## 它怎么做到的
@@ -66,8 +81,11 @@
 `theory-forge` 把这五点拆成了一条流水线：
 
 ```
-追问挖掘 → 提纯断言 → 6 种公式命名 + 打分 → 爆点结构成文 → 多平台改写 → 预演评论区 → 红线自检
+追问挖掘 → 提纯断言 → 6 种公式命名 + 打分 → 构建理论体（三定律 · 术语表 · 推论 · 边界 · 自测）→ 预演评论区 → 红线自检
+                                                                       ↘ 按需：爆点长文 / 多平台文案
 ```
+
+**它产出的是一套理论，不是一篇文章。** 文章只能被读，理论能被用：引用一条定律、用一个术语描述自己、拿自测题问朋友、在评论区争论边界。
 
 **它会先追问再动笔。** 多数人的想法一开始都是模糊的，好的追问比好的文笔更值钱。
 
@@ -79,7 +97,7 @@
 | [`theory-remix`](skills/theory-remix/SKILL.md) | 一个「论」→ 小红书 / 抖音 / 知乎 / 英文 Thread… |
 | [`theory-stress-test`](skills/theory-stress-test/SKILL.md) | 发之前，先让 AI 扮演评论区骂你一遍 |
 
-参考资料：[命名公式](skills/theory-forge/references/naming-patterns.md) · [爆点结构](skills/theory-forge/references/viral-structures.md) · [拆解样本](skills/theory-forge/references/case-library.md) · [平台格式](skills/theory-forge/references/platform-formats.md) · [红线](skills/theory-forge/references/red-lines.md)
+参考资料：[理论体解剖](skills/theory-forge/references/theory-anatomy.md) · [命名公式](skills/theory-forge/references/naming-patterns.md) · [爆点结构](skills/theory-forge/references/viral-structures.md) · [拆解样本](skills/theory-forge/references/case-library.md) · [平台格式](skills/theory-forge/references/platform-formats.md) · [红线](skills/theory-forge/references/red-lines.md)
 
 ## 安装
 
@@ -115,6 +133,7 @@ cp -r theory-forge/skills/* ~/.claude/skills/
 |---|---|---|
 | 命名权定律 | 谁先给一个现象起了名字，谁就拥有了这个现象。 | [@lychee27z](https://github.com/lychee27z) |
 | 预付自律论 | 我们花钱买的不是服务，是提前到账的自律感。 | [@lychee27z](https://github.com/lychee27z) |
+| 存档友谊论 | 成年人友谊的本质，是互相不添麻烦的默契。 | [@lychee27z](https://github.com/lychee27z) |
 | *你的论* | *等你* | *你* |
 
 ## 一条底线
