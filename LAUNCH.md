@@ -18,7 +18,7 @@
 >
 > 我管这个叫「命名权定律」：谁先给一个现象起了名字，谁就拥有了这个现象。
 >
-> 所以做了个开源 AI skill，专门帮人把脑子里的观察锻造成一个「xxx 论」。会先追问你，再起名、打分、写成能传播的结构，还会预演评论区怎么杠你。
+> 所以做了个免费开放的 AI skill，专门帮人把脑子里的观察锻造成一个「xxx 论」。会先追问你，再起名、打分、写成能传播的结构，还会预演评论区怎么杠你。
 >
 > 试了一下，「办健身卡不是为了健身」被它锻造成了「预付自律论」。
 >
@@ -26,7 +26,7 @@
 
 ## V2EX（分享创造）
 
-**标题**：做了个开源 Claude Skill：把你的想法锻造成一个能刷屏的「xxx 论」
+**标题**：做了个免费开放的 Claude Skill：把你的想法锻造成一个能刷屏的「xxx 论」
 
 > 最近网上各种「xx 理论」很火，我拆了一下，发现能火的论都有五个共同点：具象命名、反常识、万物可套、站队张力、可二创。
 >
@@ -74,7 +74,7 @@
 > [举着健身卡] 这张卡我去了三次，但办卡那天我觉得自己已经瘦了。
 > [停顿] 我管这个叫，预付自律论。
 > 这个名字，不是我想的。[停顿] 是 AI 帮我锻造的。
-> 我做了个开源工具，你跟它说一句吐槽，它先追问你，再帮你起名、打分、写成能火的结构，还会提前模拟评论区怎么骂你。
+> 我做了个免费工具，你跟它说一句吐槽，它先追问你，再帮你起名、打分、写成能火的结构，还会提前模拟评论区怎么骂你。
 > 薄肌理论、黄毛理论，都是一个人先看透了一件事，再给它起了名字。
 > 你脑子里一定也有一个。[停顿]
 > 评论区告诉我，我帮你锻造。
@@ -84,7 +84,7 @@
 > 1/ The Law of Naming Rights: whoever names a phenomenon first, owns it.
 > "Involution", "sunk cost", "broken windows". The ideas existed long before; the names made them spread.
 >
-> 2/ So I built theory-forge: open-source Claude Skills that turn a half-formed observation into a named, shareable theory.
+> 2/ So I built theory-forge: free Claude Skills that turn a half-formed observation into a named, shareable theory.
 >
 > 3/ It interviews you first, then distills a counter-intuitive claim, generates and scores names across 6 naming formulas, and writes it in a hook-driven structure.
 >
@@ -92,7 +92,7 @@
 >
 > 5/ Example: "people buy gym memberships to buy the feeling of getting better" → **Prepaid Discipline**: you're not paying for the service, you're paying for discipline delivered in advance.
 >
-> 6/ MIT licensed. Install in Claude Code:
+> 6/ Free for non-commercial use (CC BY-NC-SA 4.0). Install in Claude Code:
 > /plugin marketplace add lychee27z/theory-forge
 > github.com/lychee27z/theory-forge
 

@@ -4,7 +4,9 @@
 
 **把你憋在心里的那个观察，锻造成一个能刷屏的「xxx 论」。**
 
-一组开源 AI Skill · 支持 Claude Code / Claude.ai / 任何能读 Markdown 的 Agent
+一组免费开放的 AI Skill · 支持 Claude Code / Claude.ai / 任何能读 Markdown 的 Agent
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
 [30 秒看效果](#30-秒看效果) · [安装](#安装) · [完整示例](examples/prepaid-discipline.md) · [English](#english)
 
@@ -148,13 +150,23 @@ cp -r theory-forge/skills/* ~/.claude/skills/
 
 **觉得有意思的话，点个 ⭐，或者把「命名权定律」讲给一个朋友听，也是在验证它。**
 
-MIT License
+## 协议
+
+[CC BY-NC-SA 4.0](LICENSE)：
+
+- ✅ 个人使用、学习、分享、修改都可以
+- ✅ 用它生成的「论」归你自己，你可以随便发、随便用
+- 📝 转载或改编本仓库内容，需要署名并附上仓库链接
+- 🔁 改编后的版本也必须用同样的协议
+- ❌ 不得将本仓库内容用于商业目的（如收费课程、付费产品、商业 SaaS）
+
+需要商用授权请[联系作者](https://github.com/lychee27z)。
 
 ---
 
 ## English
 
-**theory-forge** is a set of open-source AI skills that turns a half-formed personal observation into a named, shareable "theory": the kind of meme-concept (*broken windows*, *sunk cost*, *involution*) people instantly get, apply to their own lives, and repeat to others.
+**theory-forge** is a set of free, source-available AI skills (CC BY-NC-SA 4.0, non-commercial) that turns a half-formed personal observation into a named, shareable "theory": the kind of meme-concept (*broken windows*, *sunk cost*, *involution*) people instantly get, apply to their own lives, and repeat to others.
 
 It interviews you first, distills a counter-intuitive claim, generates and scores names across six naming formulas, writes the piece in a hook-driven seven-part structure, adapts it per platform, simulates the comment section to stress-test it, and checks that its edge comes from insight, not from attacking a group. Content is primarily Chinese-internet oriented; English output is supported.
 
